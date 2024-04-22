@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      SSH_TARGET: 3.94.181.116
+      SSH_TARGET: 20.39.190.64
       NODE_ENV: production
       ENVIRONMENT: production
 
